@@ -6,7 +6,7 @@ Community On Air is an innovative project aimed at providing real-time reporting
 
 Project Creator: Tanapa Palmer https://github.com/TanapaPalmer | https://www.linkedin.com/in/tanapa-palmer/
 
-Contributor: Ricardo Palafox | https://github.com/rpalafox8804
+Contributor: Ricardo Palafox | https://github.com/rpalafox8804 | https://www.linkedin.com/in/ricardopalafox/
 
 Contributor: Shakir Watson | https://github.com/tonywatson-github | https://www.linkedin.com/in/shakirwatson/
 
